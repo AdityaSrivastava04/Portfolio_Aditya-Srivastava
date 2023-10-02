@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div4{
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 100%;
+}
+.hea{
+    text-align: center;
+}
+.div2{
+    margin-left: 1000px;}
+.head{
+    display: flex;
+}
+.img1{
+    margin-left: 30px;
+    clip-path: circle(50% at 50% 50%);
+    height: 50px;
+}
+.div10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(226, 128, 62);
+}
+.nav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.nav_img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.nav1 a{
+    padding: 0px 25px 0px 0px ;
+}
+.nav_img{
+    margin-left: 0px;
+}
+
+.di1{
+    background-color: rgba(196, 169, 255, 0.87);
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px 0px 20px;
+    font-size: 40px;
+    
+}
+.img2{
+    border-radius: 20px;
+}
+.di2{
+    background-color: rgba(154, 255, 255, 0.863);
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+    padding: 20px 50px 0px 20px;
+}
+.img3{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+}
+.div11{
+    background-color: rgb(33, 164, 240);
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+    padding: 20px 50px 0px 20px;
+}
+.img4{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+}
+.div9{
+    background-color: turquoise;
+    height: 500px;
+    font-size: 40px;
+}
+
+.div_review{
+    height: 500px;
+    background-color: rgb(45, 241, 255);
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.review1{
+    padding-left: 0px;
+}
+.last1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: black;
+    color: white;
+}
+.linkedlogo{
+    border-radius: 8px;
+}
+.facebooklogo{
+    height: 40px;
+    border-radius:40px;
+}
